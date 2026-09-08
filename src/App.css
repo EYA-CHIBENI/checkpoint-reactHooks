@@ -1,0 +1,17 @@
+.cards{
+display: flex;
+justify-content: space-around;
+flex-wrap: wrap;
+column-gap: 20px;
+row-gap: 30px; 
+}
+.show{
+  border: none;
+  background-color: transparent;
+  color: blue;
+}
+.search{
+display: flex;
+justify-content: space-around;
+margin-bottom: 30px;
+}
